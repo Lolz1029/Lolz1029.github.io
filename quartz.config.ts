@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Home",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "##8FBC8F88",
         },
         darkMode: {
-          light: "#1A2D2D",
-          lightgray: "#2F4F4F",
-          gray: "#558B6E",
-          darkgray: "#B2BEB5",
-          dark: "#FAFAFA",
-          secondary: "#8FBC8F",
-          tertiary: "#B2BEB5",
-          highlight: "rgba(143, 188, 143, 0.15)",
-          textHighlight: "#8FBC8F88",
+          light: "#21282E",         // Adjusted: Deepened your Slate so the text pops out
+          lightgray: "#3C4E54",     // Your exact color: Dark Slate (Borders/Search bar)
+          gray: "#5A7871",          // Your exact color: Muted Teal (Graph lines)
+          darkgray: "#EAECE8",      // Adjusted: Brightened your Ash Gray for readable body text
+          dark: "#CBD2C7",          // Your exact color: Light Ash (Used for Headers)
+          secondary: "#8CA88F",     // Your exact color: Soft Sage (Links and Graph Nodes)
+          tertiary: "#5A7871",      // Your exact color: Muted Teal (Hover states)
+          highlight: "rgba(140, 168, 143, 0.15)", // Transparent Soft Sage
+          textHighlight: "#8CA88F88",
         },
       },
     },
