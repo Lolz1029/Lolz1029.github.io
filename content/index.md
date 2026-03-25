@@ -7,3 +7,4 @@ Welcome to my digital garden. This is a space where I keep myself accountable, d
 * [[Entrepreneurship]] - Business models, ventures, and value creation.
 * [[Python]] - App development, scripting, and automation.
 * [[Korean]] - Language practice and grammar logs.
+* [[Christianity]]
