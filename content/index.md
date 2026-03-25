@@ -2,8 +2,9 @@
 
 Welcome to my digital garden. This is a space where I keep myself accountable, document my progress, and connect ideas as I build and learn.
 
-[Here is what I am learning this week.](Now.md)
-
+Here is what I am learning this week: [[New Seeds]]
+### Sections:
+* 📚 [[Library/index|My Book Library]]
 ### Active Explorations:
 * [[Metacognition]] - Understanding how I learn, think, and optimize.
 * [[Entrepreneurship]] - Business models, ventures, and value creation.
