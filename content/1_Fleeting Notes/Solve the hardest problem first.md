@@ -1,0 +1,2 @@
+Leadership is about providing direction. Good leadership is about giving direction based on proper prioritization. In any given situation in which you are running a business, there will be times when there is peace, and there will be times when there is a war. liters are paid to rip the Band-Aid off, and they do the best for the organization in the long run—even if it means suffering in the short run. 
+[[202504011617 Ben Horowitz_ Quit being a coward and do the right thing]]

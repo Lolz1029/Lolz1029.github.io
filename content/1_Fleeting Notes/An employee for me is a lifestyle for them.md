@@ -1,0 +1,2 @@
+Be empathetic, even when I am going through rough times. Great leaders always think about the best for his team—which makes employees want to follow. Do not take credit for wins and take all the credit for failiures. 
+[[202504011751 The Hard Thing About Hard Things]]

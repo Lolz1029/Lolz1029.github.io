@@ -1,0 +1,3 @@
+#Christianity #Ego #Gratefulness
+Do not be blinded by ego. Do not wear righteousness on your sleve. Humans cannot go to Heaven using thier own strength; therefore all of the good humans do is due to God's grace. Claiming that for yourself is nothing but a sign of ungratefulness and ego. Jesus came for the ones who call themselves sinners, not the ones who are prideful in their righteousness.
+[[202505022153 The Parable of the Lost Son]]

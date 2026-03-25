@@ -1,0 +1,2 @@
+Praying to Jesus to allow us to believe in him with certainty is the most important thing. Do not forget the grace of his sacrafice and victory against sin and death. We are blessed, and should live a grateful life.
+[[202506062143 Pastor Seo Daechon]]

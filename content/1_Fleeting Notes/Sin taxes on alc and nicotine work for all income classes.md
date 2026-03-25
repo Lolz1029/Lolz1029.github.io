@@ -1,0 +1,1 @@
+There is evidence that suggests the price elasticities of alcohol and tobacco are very similar across income levels.
