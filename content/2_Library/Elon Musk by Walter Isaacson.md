@@ -1,8 +1,8 @@
 ---
-source:
-author:
+source: Elon Musk
+author: Walter Isaacson
 ---
-<% await tp.file.move("/2_Library/" + tp.file.title) %>
+
 %%
 What do I not want to forget?
 What might I use in my thinking or writing? 

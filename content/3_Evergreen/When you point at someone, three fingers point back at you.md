@@ -1,8 +1,8 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: 2026-03-29 18:10
 status: permanent
 ---
-<% await tp.file.move("/3_Evergreen/" + tp.file.title) %>
+It is easy to blame, judge, and criticize someone for their actions, but realize that I who points the finger is uglier—pointing is a sign of [[ego]]. 
 %%
 Check:
 - How does this relate to other notes?

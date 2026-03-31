@@ -1,8 +1,9 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 status: permanent
+created: 2026-03-29 17:30
 ---
-<% await tp.file.move("/3_Evergreen/" + tp.file.title) %>
+Requirements are at most, best practices left behind by someone else. Questioning requirements through [[First Principles Thinking]] is the best way to cut through bureaucracy, and can lead to better results.
+
 %%
 Check:
 - How does this relate to other notes?
