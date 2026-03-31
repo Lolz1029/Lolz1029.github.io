@@ -1,4 +1,3 @@
-#probability #decisionmaking 
 Two truths from Baysian thinking: 
 1. Everything is a probability
 2. Probabilities are constantly updated
