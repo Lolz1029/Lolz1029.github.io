@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         if (!node || !node.displayName) return true
         
         // Exact spelling matches your actual folder names
-        return node.displayName !== "_templates" && node.displayName !== "Assets"
+        return node.displayName !== "_templates" && node.displayName !== "_assets"
       },
   }),
   ],
@@ -68,7 +68,7 @@ export const defaultListPageLayout: PageLayout = {
         if (!node || !node.displayName) return true
         
         // Exact spelling matches your actual folder names
-        return node.displayName !== "_templates" && node.displayName !== "Assets"
+        return node.displayName !== "_templates" && node.displayName !== "_assets"
       },
   }),
   ],
