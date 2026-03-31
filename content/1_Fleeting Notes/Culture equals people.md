@@ -1,2 +1,0 @@
-The culture of your business is defined by the core values of the people working there. If someone that does not align with the existing core values of the company, you, and they are better off somewhere else.
-[[Jason Becker]]

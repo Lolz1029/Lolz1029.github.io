@@ -1,8 +1,8 @@
 ---
-created: 2026-03-30 21:14
+created: 2026-03-30 21:49
 status: permanent
 ---
-
+The culture of your business is defined by the core values of the people working there. If someone that does not align with the existing core values of the company, you, and they are better off somewhere else.
 %%
 Check:
 - How does this relate to other notes?
