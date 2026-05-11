@@ -1,1 +1,0 @@
-Human bodies tend to regulate itself on an equilibrium. An equilibrium is something that a system returns to, but the point of equilibrium may be shifted due to persistent force.
